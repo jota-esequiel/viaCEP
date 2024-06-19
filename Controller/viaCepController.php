@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author João Vitor
+ */
+
+
 include_once '../connection.php';
 
 $pdo = conectar(); 
